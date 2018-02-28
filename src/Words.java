@@ -76,6 +76,38 @@ public class Words {
 		wordMap.put("premeditate", "think out or plan beforehand");
 		
 		//3rd set
+		wordMap.put("whimscial", "acting in a capricious manner");
+		wordMap.put("capricious", "given to sudden changes in mood");
+		wordMap.put("quaint", "attractively unusual or old fashioned");
+		wordMap.put("arbitrate", "reach a authoritative judgement or settlement");
+		wordMap.put("myriad", "a countless or great number of people or things");
+		wordMap.put("exalt", "think or speak very highly of(someone);raise to a higher rank");
+		
+		wordMap.put("notoriety", "being famous for something bad#infamous");
+		
+		wordMap.put("affront", "an action that causes offence(insult)");
+		wordMap.put("endear", "cause to be loved or liked");
+		wordMap.put("concede", "agree to something is true after first denying it;surrender;yield");
+		wordMap.put("fortuitous", "happening by chance rather then intention");
+		wordMap.put("propriety", "conformity to conventionally accepted standards");
+		wordMap.put("detractors", "a person who disparages someone");
+		wordMap.put("albeit", "though");
+		wordMap.put("posthumous", "occuring,awarded or appearing after the death of the originator");
+		wordMap.put("hapless", "unfortunate");
+		wordMap.put("penned", "write or compose");
+		wordMap.put("congenial", "pleased or liked as having some quality as oneself");
+		wordMap.put("obscure", "not clearly expressed or easily understood;uncertain");
+		wordMap.put("prolific", "present in a large no. of quantities");
+		wordMap.put("heretic", "a person believing in or practising religious heresy");
+		wordMap.put("heresy", "contraty to orthodox");
+		wordMap.put("incendiary", "tending to stir up conflict;very exciting");
+		wordMap.put("smitten", "be strongly attracted to someone");
+		wordMap.put("disenfranchise", "deprive(someone) the right to vote");
+		wordMap.put("tactless", "lack of skill");
+		wordMap.put("parsimonious", "very unwilling to spend money or an other resource");
+		wordMap.put("garrulous", "excessively talkative,expecially on trivial matters");
+		
+		//4th set
 		//wordMap.put("", "");
 		return wordMap;
 	}
