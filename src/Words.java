@@ -6,107 +6,6 @@ public class Words {
 	public static Map<String,String> uploadMapData(){
 		Map<String,String> wordMap = new HashMap<>();
 		
-		//1st set
-		wordMap.put("opprobrium", "harsh criticism or censure; publicly disgrace");
-		wordMap.put("accolade", "praise or admire(award)");
-		wordMap.put("hyperbole", "exaggerated statements not to be taken literally");
-		wordMap.put("inerrant", "incapable of being wrong");
-		wordMap.put("centurion", "commandor of the century");
-		wordMap.put("erudite", "learned;scholarship");
-		wordMap.put("doctorine", "a belief taught by chruch or politicfal party or other group");
-		wordMap.put("fallacy", "faulty reasoning");
-		wordMap.put("magnate", "a wealthy & influential businessmen");
-		wordMap.put("efficacy", "the ability to produce the intended result");
-		wordMap.put("bellicose", "demonstrating aggression & willingness to fight");
-		wordMap.put("chasten", "restrain;discipline;punish");
-		wordMap.put("diatribe", "a forceful & bitter verbal attack against someone or something");
-		
-		wordMap.put("encomium", "a speech or writting that praises someone#eulogy");
-		wordMap.put("eulogy", "a speech or writting that praises someone#encomium");
-		
-		wordMap.put("magnanimous", "generous or forgiving, to wards a rival or less powerful person");
-		wordMap.put("imparious", "arrogant & domineering");
-		wordMap.put("vindictive", "desire for revenge");
-		wordMap.put("calumniate", "make false & defamatory statements about someone");
-		
-		wordMap.put("pillory", "ridicule#deride");
-		wordMap.put("deride", "ridicule#pillory");
-		
-		wordMap.put("renege", "revoke;abandon");
-		wordMap.put("dross", "rubbish;worthless");
-		
-		wordMap.put("dirge", "a mournful song#ament");
-		wordMap.put("lament", "a mournful song#dirge");
-		
-		//2nd set
-		wordMap.put("reconnoitre", "make a military observation of(a region)");
-		wordMap.put("hoodwink", "deceive or trick");
-		wordMap.put("lambaste", "criticize harshly");
-		wordMap.put("vitiate", "spoil the efficacy of;destroy the loyal validity of");
-		
-		wordMap.put("surly", "bad-tempered & unfriendly#curmudgeon");
-		wordMap.put("curmudgeon", "bad-tempered#surly");
-		
-		wordMap.put("exuberance", "full of energy,excitement#ebullience");
-		
-		wordMap.put("abstain", "restrain oneself from doing");
-		wordMap.put("acquiescent", "ready to except something without protest");
-		wordMap.put("concoct", "create or devise");
-		wordMap.put("hindsight", "understand of a situtation or event only after it has happened");
-		
-		wordMap.put("brash", "self assertive in a rude,noisy way#obstentatious");
-		wordMap.put("obstentatious", "tasteless#brash");
-		
-		wordMap.put("pauper", "a very poor person");
-		wordMap.put("brusque", "abrupt in speech or manner;rude");
-		wordMap.put("steadfast", "resolute;loyal");
-		wordMap.put("unseemly", "not proper or appropriate");
-		wordMap.put("polemic", "a strong verbal or written attack on someone");
-		wordMap.put("skew", "suddenly change in direction or position;make biased");
-		wordMap.put("enumerate", "mention(a no. of things) one by one");
-		wordMap.put("pointed", "expressing criticism in a directed & unambiguous way");
-		
-		wordMap.put("abstract", "existing in thought and having no physical existence#vague");
-		
-		wordMap.put("cynic", "a person that believes that people are only motivated purely by self-interest rather than acting for honour");
-		wordMap.put("amiable", "friendly");
-		wordMap.put("protract", "prolong");
-		wordMap.put("downcast", "feelng despondant");
-		wordMap.put("forlorn", "pityfully sad;lonely;unlikely to succeed");
-		wordMap.put("premeditate", "think out or plan beforehand");
-		
-		//3rd set
-		wordMap.put("whimscial", "acting in a capricious manner");
-		wordMap.put("capricious", "given to sudden changes in mood");
-		wordMap.put("quaint", "attractively unusual or old fashioned");
-		wordMap.put("arbitrate", "reach a authoritative judgement or settlement");
-		wordMap.put("myriad", "a countless or great number of people or things");
-		wordMap.put("exalt", "think or speak very highly of(someone);raise to a higher rank");
-		
-		wordMap.put("notoriety", "being famous for something bad#infamous#egragious");
-		
-		wordMap.put("affront", "an action that causes offence(insult)");
-		wordMap.put("endear", "cause to be loved or liked");
-		wordMap.put("concede", "agree to something is true after first denying it;surrender;yield");
-		wordMap.put("fortuitous", "happening by chance rather then intention");
-		wordMap.put("propriety", "conformity to conventionally accepted standards");
-		wordMap.put("detractors", "a person who disparages someone");
-		wordMap.put("albeit", "though");
-		wordMap.put("posthumous", "occuring,awarded or appearing after the death of the originator");
-		wordMap.put("hapless", "unfortunate");
-		wordMap.put("penned", "write or compose");
-		wordMap.put("congenial", "pleased or liked as having some quality as oneself");
-		wordMap.put("obscure", "not clearly expressed or easily understood;uncertain");
-		wordMap.put("prolific", "present in a large no. of quantities");
-		wordMap.put("heretic", "a person believing in or practising religious heresy");
-		wordMap.put("heresy", "contrary to orthodox");
-		wordMap.put("incendiary", "tending to stir up conflict;very exciting");
-		wordMap.put("smitten", "be strongly attracted to someone");
-		wordMap.put("disenfranchise", "deprive(someone) the right to vote");
-		wordMap.put("tactless", "lack of skill");
-		wordMap.put("parsimonious", "very unwilling to spend money or an other resource");
-		wordMap.put("garrulous", "excessively talkative,expecially on trivial matters");
-		
 		//1th set
 		wordMap.put("swathe", "a broad strip or area of something");
 		wordMap.put("suburbia", "the suburbs");
@@ -442,7 +341,198 @@ public class Words {
 		wordMap.put("vigor", "physical strength & good health;full of energy");
 		
 		//12th set
-		/*wordMap.put("", "");
+		wordMap.put("persecution", "hostile or ill-treatment");
+		wordMap.put("corroborate", "support to a theory or statement");
+		wordMap.put("placate", "make less angry or hostile");
+		wordMap.put("trumpets", "proclaim widely or loudly");
+		wordMap.put("omit", "leave out or exclude");
+		wordMap.put("articulate", "having the ability to speak fluently#eloquent");
+		wordMap.put("bombastic", "high sounding but with little meaning#inflated");
+		wordMap.put("gregarious", "socialable");
+		wordMap.put("pompous", "self-important");
+		wordMap.put("affable", "friendly");
+		wordMap.put("amenable", "easily persuaded");
+		wordMap.put("dearth", "lack of something");
+		wordMap.put("countenance", "a persons face or facial expression");
+		wordMap.put("surfiet", "an excessive amount of something");
+		wordMap.put("spate", "a large no. of things coming in quick succession");
+		wordMap.put("proclamation", "a public announcement dealing with an important matter");
+		wordMap.put("noxious", "harmful,poisoness");
+		wordMap.put("exacerbate", "make worse");
+		wordMap.put("deleterious", "causing harm or damage");
+		wordMap.put("evokes", "bring or recall to the conscious mind");
+		wordMap.put("disenchants", "cause to be disappointed;free from illusions");
+		wordMap.put("relegated", "lower in ranks");
+		wordMap.put("abrogate", "repeal or do away with law");
+		wordMap.put("annulled", "having no legal existance;declare invalid");
+		wordMap.put("apotheosize", "idolize");
+		wordMap.put("sycophant", "obsequiously#subservient");
+		wordMap.put("pedant", "a person who is excessively concerned with minor details & rules;show academic learning");
+		wordMap.put("eccentric", "slightly strange;not placed centrally");
+		
+		//13st set
+		wordMap.put("opprobrium", "harsh criticism or censure; publicly disgrace");
+		wordMap.put("accolade", "praise or admire(award)");
+		wordMap.put("hyperbole", "exaggerated statements not to be taken literally");
+		wordMap.put("inerrant", "incapable of being wrong");
+		wordMap.put("centurion", "commandor of the century");
+		wordMap.put("erudite", "learned;scholarship");
+		wordMap.put("doctorine", "a belief taught by chruch or politicfal party or other group");
+		wordMap.put("fallacy", "faulty reasoning");
+		wordMap.put("magnate", "a wealthy & influential businessmen");
+		wordMap.put("efficacy", "the ability to produce the intended result");
+		wordMap.put("bellicose", "demonstrating aggression & willingness to fight");
+		wordMap.put("chasten", "restrain;discipline;punish");
+		wordMap.put("diatribe", "a forceful & bitter verbal attack against someone or something");
+		
+		wordMap.put("encomium", "a speech or writting that praises someone#eulogy");
+		wordMap.put("eulogy", "a speech or writting that praises someone#encomium");
+		
+		wordMap.put("magnanimous", "generous or forgiving, to wards a rival or less powerful person");
+		wordMap.put("imparious", "arrogant & domineering");
+		wordMap.put("vindictive", "desire for revenge");
+		wordMap.put("calumniate", "make false & defamatory statements about someone");
+		
+		wordMap.put("pillory", "ridicule#deride");
+		wordMap.put("deride", "ridicule#pillory");
+		
+		wordMap.put("renege", "revoke;abandon");
+		wordMap.put("dross", "rubbish;worthless");
+		
+		wordMap.put("dirge", "a mournful song#ament");
+		wordMap.put("lament", "a mournful song#dirge");
+		
+		//14nd set
+		wordMap.put("reconnoitre", "make a military observation of(a region)");
+		wordMap.put("hoodwink", "deceive or trick");
+		wordMap.put("lambaste", "criticize harshly");
+		wordMap.put("vitiate", "spoil the efficacy of;destroy the loyal validity of");
+		
+		wordMap.put("surly", "bad-tempered & unfriendly#curmudgeon");
+		wordMap.put("curmudgeon", "bad-tempered#surly");
+		
+		wordMap.put("exuberance", "full of energy,excitement#ebullience");
+		
+		wordMap.put("abstain", "restrain oneself from doing");
+		wordMap.put("acquiescent", "ready to except something without protest");
+		wordMap.put("concoct", "create or devise");
+		wordMap.put("hindsight", "understand of a situtation or event only after it has happened");
+		
+		wordMap.put("brash", "self assertive in a rude,noisy way#obstentatious");
+		wordMap.put("obstentatious", "tasteless#brash");
+		
+		wordMap.put("pauper", "a very poor person");
+		wordMap.put("brusque", "abrupt in speech or manner;rude");
+		wordMap.put("steadfast", "resolute;loyal");
+		wordMap.put("unseemly", "not proper or appropriate");
+		wordMap.put("polemic", "a strong verbal or written attack on someone");
+		wordMap.put("skew", "suddenly change in direction or position;make biased");
+		wordMap.put("enumerate", "mention(a no. of things) one by one");
+		wordMap.put("pointed", "expressing criticism in a directed & unambiguous way");
+		
+		wordMap.put("abstract", "existing in thought and having no physical existence#vague");
+		
+		wordMap.put("cynic", "a person that believes that people are only motivated purely by self-interest rather than acting for honour");
+		wordMap.put("amiable", "friendly");
+		wordMap.put("protract", "prolong");
+		wordMap.put("downcast", "feelng despondant");
+		wordMap.put("forlorn", "pityfully sad;lonely;unlikely to succeed");
+		wordMap.put("premeditate", "think out or plan beforehand");
+		
+		//15th set
+		wordMap.put("whimscial", "acting in a capricious manner");
+		wordMap.put("capricious", "given to sudden changes in mood");
+		wordMap.put("quaint", "attractively unusual or old fashioned");
+		wordMap.put("arbitrate", "reach a authoritative judgement or settlement");
+		wordMap.put("myriad", "a countless or great number of people or things");
+		wordMap.put("exalt", "think or speak very highly of(someone);raise to a higher rank");
+		
+		wordMap.put("notoriety", "being famous for something bad#infamous#egragious");
+		
+		wordMap.put("affront", "an action that causes offence(insult)");
+		wordMap.put("endear", "cause to be loved or liked");
+		wordMap.put("concede", "agree to something is true after first denying it;surrender;yield");
+		wordMap.put("fortuitous", "happening by chance rather then intention");
+		wordMap.put("propriety", "conformity to conventionally accepted standards");
+		wordMap.put("detractors", "a person who disparages someone");
+		wordMap.put("albeit", "though");
+		wordMap.put("posthumous", "occuring,awarded or appearing after the death of the originator");
+		wordMap.put("hapless", "unfortunate");
+		wordMap.put("penned", "write or compose");
+		wordMap.put("congenial", "pleased or liked as having some quality as oneself");
+		wordMap.put("obscure", "not clearly expressed or easily understood;uncertain");
+		wordMap.put("prolific", "present in a large no. of quantities");
+		wordMap.put("heretic", "a person believing in or practising religious heresy");
+		wordMap.put("heresy", "contrary to orthodox");
+		wordMap.put("incendiary", "tending to stir up conflict;very exciting");
+		wordMap.put("smitten", "be strongly attracted to someone");
+		wordMap.put("disenfranchise", "deprive(someone) the right to vote");
+		wordMap.put("tactless", "lack of skill");
+		wordMap.put("parsimonious", "very unwilling to spend money or an other resource");
+		wordMap.put("garrulous", "excessively talkative,expecially on trivial matters");
+		
+		//16th set
+		wordMap.put("tantamount", "equivalent in seriousness;virtually the same as");
+		wordMap.put("dabbler", "immerse;take part in an activity in a casual way");
+		wordMap.put("fledging", "a person or organization what are immature or inexperienced");
+		wordMap.put("consummate", "to make complete;showing great skill & flair");
+		wordMap.put("prosody", "the patterns of stress and intonation in a language");
+		wordMap.put("solitary", "existing alone;single");
+		wordMap.put("repudiation", "rejection of a proposal or idea;denial of truth");
+		wordMap.put("caricature", "a picture in which certain characteristics are exaggerated");
+		wordMap.put("profligate", "recklessly extravagent or wasteful in the use of resource#prodigal");
+		wordMap.put("comprehensive", "including with all elements or aspects of something");
+		wordMap.put("pragmatic", "dealing with things sensibly;practical approach");
+		wordMap.put("emulate", "match or surpass a person or achievement typically by imitation");
+		wordMap.put("benign", "gentle and kind;not harmful in effect");
+		wordMap.put("prolixity", "containing to many words");
+		wordMap.put("prescient", "have knowledge of event before it takes place");
+		wordMap.put("litigate", "resort to legal action to settle a matter");
+		wordMap.put("virulent", "extremely severe or harmful in its effects");
+		wordMap.put("inimical", "hostile");
+		wordMap.put("exacting", "making great demands on one's skill");
+		wordMap.put("discern", "recognize;find out");
+		wordMap.put("malfeasance", "wrongdoing");
+		wordMap.put("scrupulous", "careful;avoid wrong doing");
+		wordMap.put("aboveboard", "legitimate;honest;open");
+		wordMap.put("tarnished", "make or become less valuable or respected");
+		wordMap.put("restorative", "having the ability to restore health");
+		wordMap.put("soporific", "tending to induce sleep;drowsiness");
+		wordMap.put("detrimental", "tending to cause harm");
+		wordMap.put("genial", "friendly & cheerful");
+		wordMap.put("decrepit", "worn out or ruined because of age or neglect");
+		wordMap.put("contrive", "manage to do something foolish or create an undesirable situation");
+		
+		//17th set
+		wordMap.put("carouse", "enjoy with others in a noisy way#revelry");
+		wordMap.put("merriment", "gaiety and fun");
+		wordMap.put("revelry", "enjoy with others in a noisy way#carouse");
+		wordMap.put("wallow", "indulge in an unrestrained way");
+		wordMap.put("indulgent", "allow oneself to enjoy the pleasure of");
+		wordMap.put("singular", "remarkable");
+		wordMap.put("languish", "lack vitality;forced to remain in an unpleasent situation");
+		wordMap.put("ardent", "very enthusiastic or passionate");
+		wordMap.put("conjecture", "an opinion or conclusion formed on the basis of incomplete info");
+		wordMap.put("untoward", "unexcepted & inappropriate");
+		wordMap.put("parochial", "narrowly restricted in scope or outlook");
+		wordMap.put("prodigal", "rashly or wastefully extravagent#profligate");
+		wordMap.put("venality", "susceptible to bribes or corruption");
+		wordMap.put("impertinent", "being disrespectable;improperly forward or bold");
+		wordMap.put("commensurate", "to be in proportion in degree & amount");
+		wordMap.put("harangue", "a long pompous speech");
+		wordMap.put("acrimony", "bitterness");
+		wordMap.put("betray", "reveal something unintentionally");
+		wordMap.put("demeanor", "outword behaviour or bearing");
+		wordMap.put("meek", "quiet,gentle,submissive#timid-shy");
+		wordMap.put("disdain", "unworthy of one's consideration");
+		wordMap.put("afield", "at a distance");
+		wordMap.put("veteran", "a person with long experience in a particular field");
+		wordMap.put("dissemination", "spread(something) widely");
+		wordMap.put("guan", "to gather from");
+		wordMap.put("cornucopia", "abundance");
+		wordMap.put("purge", "to remove usually by force");
+		wordMap.put("subvert", "to go against;undermine");
+		wordMap.put("intractable", "thorny;naughty");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
@@ -459,20 +549,6 @@ public class Words {
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");*/
 		return wordMap;
 	}
 	
