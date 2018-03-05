@@ -6,7 +6,7 @@ public class Words {
 	public static Map<String,String> uploadMapData(){
 		Map<String,String> wordMap = new HashMap<>();
 		
-		//1th set
+/*		//1th set
 		wordMap.put("swathe", "a broad strip or area of something");
 		wordMap.put("suburbia", "the suburbs");
 		wordMap.put("domicile", "treat a specified country as a permanent home");
@@ -123,7 +123,7 @@ public class Words {
 		wordMap.put("telling", "revealing of another factor");
 		wordMap.put("jingoism", "arouse patriotic emotions");
 		wordMap.put("cupidity", "extreme greed for material wealth");
-		wordMap.put("restive", "standing still;unable to remain silent due to boredom");
+		wordMap.put("restive", "restless;unable to remain silent due to boredom");
 		wordMap.put("augury", "an event telling what important events are to come");
 		
 		//5th set
@@ -304,7 +304,7 @@ public class Words {
 		wordMap.put("congruent", "in perfect harmony");
 		wordMap.put("pejorative", "reprimand severly");
 		wordMap.put("daunting", "intimidating");
-		wordMap.put("banal", "boring");
+		wordMap.put("banal", "boring;repeated too often");
 		wordMap.put("cosmetic", "only related to outer beauty");
 		wordMap.put("surreal", "bizzare");
 		wordMap.put("obfuscate", "make obscure;unclear");
@@ -328,7 +328,7 @@ public class Words {
 		wordMap.put("forestall", "prevent or obstruct by taking advance action");
 		wordMap.put("deprecate", "express disapproval of");
 		wordMap.put("elite", "a selected group of superior");
-		wordMap.put("ingenuity", "clever,original");
+		wordMap.put("ingenuity", "innocent;naive");
 		wordMap.put("hegemony", "leadership or dominance,of a group over others");
 		wordMap.put("proponent", "a person who advocates a theory");
 		wordMap.put("coterier", "a small group of people with similar interest");
@@ -460,7 +460,7 @@ public class Words {
 		wordMap.put("hapless", "unfortunate");
 		wordMap.put("penned", "write or compose");
 		wordMap.put("congenial", "pleased or liked as having some quality as oneself");
-		wordMap.put("obscure", "not clearly expressed or easily understood;uncertain");
+		wordMap.put("obscure", "known by only a few;make unclear;uncertain");
 		wordMap.put("prolific", "present in a large no. of quantities");
 		wordMap.put("heretic", "a person believing in or practising religious heresy");
 		wordMap.put("heresy", "contrary to orthodox");
@@ -468,7 +468,7 @@ public class Words {
 		wordMap.put("smitten", "be strongly attracted to someone");
 		wordMap.put("disenfranchise", "deprive(someone) the right to vote");
 		wordMap.put("tactless", "lack of skill");
-		wordMap.put("parsimonious", "very unwilling to spend money or an other resource");
+		wordMap.put("parsimonious", "very unwilling to spend money or an other resource#frugal#miserly");
 		wordMap.put("garrulous", "excessively talkative,expecially on trivial matters");
 		
 		//16th set
@@ -501,7 +501,7 @@ public class Words {
 		wordMap.put("detrimental", "tending to cause harm");
 		wordMap.put("genial", "friendly & cheerful");
 		wordMap.put("decrepit", "worn out or ruined because of age or neglect");
-		wordMap.put("contrive", "manage to do something foolish or create an undesirable situation");
+		wordMap.put("contrive", "manage to do something foolish or create an undesirable situation");*/
 		
 		//17th set
 		wordMap.put("carouse", "enjoy with others in a noisy way#revelry");
@@ -533,6 +533,97 @@ public class Words {
 		wordMap.put("purge", "to remove usually by force");
 		wordMap.put("subvert", "to go against;undermine");
 		wordMap.put("intractable", "thorny;naughty");
+		
+		//18th set
+		wordMap.put("empirical", "can be tested,measurable");
+		wordMap.put("reticent", "quiet;disciplined to talk;not revealing one's thought");
+		wordMap.put("loquacious", "chatty;talkative");
+		wordMap.put("taciturn", "withdrawn");
+		wordMap.put("transient", "lasting a very short time#ephemeral");
+		wordMap.put("salutary", "healthy,promoting a good effect");
+		wordMap.put("shirk", "avoid or neglect");
+		wordMap.put("protean", "tending or able to change frequently or easily#versatile");
+		wordMap.put("bland", "showing no strong emotion#benign");
+		wordMap.put("adjudicate", "make a formal judgement on a disputed matter");
+		wordMap.put("delineate", "describe or portray (something) precisely");
+		wordMap.put("sporadic", "occurring at irregular intervals or only in a few places;scattered or isolated;not constant");
+		wordMap.put("inadvertently", "unintentionally");
+		wordMap.put("haphazard", "randomly");
+		wordMap.put("remiss", "negligent;not performing duties");
+		wordMap.put("stringent", "harsh");
+		wordMap.put("doting", "take care of someone in a motherly manner");
+		wordMap.put("imminent", "about to happen");
+		wordMap.put("begrudge", "hold them back");
+		wordMap.put("jarring", "clashing;shocking");
+		wordMap.put("jubilant", "happy");
+		wordMap.put("tenacious", "not giving up easily");
+		wordMap.put("aspersions", "an attack on the reputation or integrity of someone or something");
+		wordMap.put("serenity", "peace");
+		wordMap.put("capitulation", "surrender or give up");
+		wordMap.put("perusal", "work over or read something thoroughly");
+		wordMap.put("ramification", "a complex or unwelcome consequence of an action or event");
+		wordMap.put("despensation", "distribute or supply something;exempt in doing something");
+		wordMap.put("incumbent", "necessary for (someone) as a duty or responsibility");
+		
+		
+		//19th set
+		wordMap.put("contort", "twist or bend out of the normal shape");
+		wordMap.put("subterfuge", "trickery");
+		wordMap.put("anachronistic", "belonging to a period other than that being portrayed");
+		wordMap.put("monolithic", "large & unwarying");
+		wordMap.put("insolvent", "run out of money;broke");
+		wordMap.put("pageantry", "showy display");
+		wordMap.put("exact", "precise");
+		wordMap.put("insouciance", "lack of concern; indifference");
+		wordMap.put("agnostic", "a person who believes that nothing is known or can be known of the existence or nature of God");
+		wordMap.put("aver", "state to be the case");
+		
+		//new words
+		//gre app common words 1
+		wordMap.put("mercurial", "prone to unexpected and unpredictable changes in mood#capricious");
+		wordMap.put("aberration", "a deviation from what is normal or expected");
+		wordMap.put("undermine", "to weaken");
+		wordMap.put("disinterested", "unbiased;neutral");
+		wordMap.put("amalgam", "a mixture of multiple things");
+		wordMap.put("upbraid", "to scold");
+		wordMap.put("chastise", "reprimand severly");
+		wordMap.put("amorphous", "shapeless");
+		
+		//common words 2
+		wordMap.put("apathetic", "lack of interest");
+		wordMap.put("didactic", "instructive");
+		wordMap.put("impudent", "improperly forward or bold");
+		wordMap.put("querulous", "habitually complaining");
+		wordMap.put("rustic", "simple;characteristics of rural life");
+		wordMap.put("vociferous", "offensively loud;vehement outcry");
+		wordMap.put("chortle", "to chuckle;laugh merrily;often in a breathy way");
+		wordMap.put("predilection", "a strong liking");
+		wordMap.put("gainsay", "deny or contradict;speak against or oppose");
+		wordMap.put("inexorable", "impossible to stop or prevent");
+		wordMap.put("germane", "relevant and appropriate");
+		wordMap.put("frivolous", "not serious in content or attitude or behaviour");
+		wordMap.put("preclude", "keep from happening or arising;make impossible");
+		wordMap.put("gall", "feeling of deep and bitter anger and ill-will;being rude");
+		wordMap.put("dogmatic", "highly opinionated,not accepting that one's own belief may not be correct");
+		wordMap.put("superfluous", "more than is needed, desired or required");
+		wordMap.put("mawkish", "overly sentimental to the point that it is disgusting");
+		wordMap.put("deferential", "showing respect");
+		wordMap.put("recondite", "difficult to penetrate;incomprehensible to one of ordinary knowledge");
+		wordMap.put("platitude", "a trite or obvious remark");
+		wordMap.put("incisive", "having the ability to recognize or draw fine distinctions");
+		wordMap.put("torpor", "lack of vigor or energy");
+		wordMap.put("culminate", "reach the highest or most decisive point");
+		wordMap.put("diffident", "lack of confidence");
+		wordMap.put("gossamer", "characterized by unusual lightness and delicacy");
+		wordMap.put("culpability", "a state of guilt");
+		wordMap.put("conspicuous", "without any attempts at concealment;completely obvious");
+		wordMap.put("perfidy", "deliberate betrayal;breach of trust");
+		wordMap.put("cryptic", "mysterious or vague;usually intentionally");
+		wordMap.put("volubility", "the quality of talking or writing easily and continuously");
+		wordMap.put("audacious", "willing to be bold in social situations or to take risks");
+		wordMap.put("engender", "give rise to");
+		wordMap.put("dictatorial", "characteristics of absolute ruler");
+		/*wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
@@ -545,10 +636,7 @@ public class Words {
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
+		wordMap.put("", "");*/
 		return wordMap;
 	}
 	
