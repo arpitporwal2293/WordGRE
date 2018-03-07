@@ -313,7 +313,7 @@ public class Words {
 		wordMap.put("callous", "showing insensitive disregards for others");
 		wordMap.put("refute", "disaprove");
 		wordMap.put("ameliorate", "to make better");
-		wordMap.put("austere", "severe or strictin manner");
+		wordMap.put("austere", "trait of great self-denial;severe or strict in manner");
 		wordMap.put("epitomize", "give example of");
 		wordMap.put("occlude", "to stop;close");
 		wordMap.put("atypical", "not of a particular type");
@@ -662,7 +662,7 @@ public class Words {
 		wordMap.put("petulant", "easily irritated or annoyed");
 		wordMap.put("copious", "in abundant supply");
 		wordMap.put("provincial", "limited prespective;not fashional or sophisticated");
-		wordMap.put("largess", "extreme generosity and giving");
+		wordMap.put("largess", "extreme generosity and giving;gift");
 		wordMap.put("burgeon", "grow and flourish");
 		wordMap.put("implacable", "incapable of making less angry or hostile");
 		wordMap.put("unscrupulous", "without principles");
@@ -691,8 +691,39 @@ public class Words {
 		wordMap.put("construe", "interpreted in a particular way");
 		wordMap.put("expound", "add details or explanation;clarify the meaning;state in depth");
 		wordMap.put("eradicate", "to completely destroy");
+		wordMap.put("tortuous", "not straightforward");
+		
+		
+		//questions words
+		wordMap.put("tinged", "a slight but appreciable amount");
+		wordMap.put("futile", "producing no result or effect");
+		wordMap.put("promulgate", "state or announce");
+		wordMap.put("enact", "order by virtue of superior authority; decree");
+		wordMap.put("inchoate", "only partly in existence; imperfectly formed");
+		wordMap.put("sartorial", "relating to tailoring, clothes, or style of dress");
+		wordMap.put("salvation", "saving someone or something from harm");
+		wordMap.put("asceticism", "trait of great self-denial");
+		wordMap.put("strictures", "severe criticism");
+		wordMap.put("discount", "bar from attention or consideration");
+		wordMap.put("crestfallen", "brought low in spirit");
+		wordMap.put("tax", "limit;make a charge against or accuse");
+		/*wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");*/
 		
 		//common words 5
+		/*wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
@@ -714,8 +745,7 @@ public class Words {
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
+		wordMap.put("", "");*/
 		
 		return wordMap;
 	}
