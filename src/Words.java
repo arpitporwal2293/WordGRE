@@ -6,7 +6,7 @@ public class Words {
 	public static Map<String,String> uploadMapData(){
 		Map<String,String> wordMap = new HashMap<>();
 		
-		/*//1th set
+		//1th set
 		wordMap.put("swathe", "a broad strip or area of something");
 		wordMap.put("suburbia", "the suburbs");
 		wordMap.put("domicile", "treat a specified country as a permanent home");
@@ -84,10 +84,10 @@ public class Words {
 		wordMap.put("debiliate", "make very weak,hinder,delay");
 		wordMap.put("acute", "shrewd");
 		wordMap.put("eschew", "avoid#abstain");
-		wordMap.put("poignant", "sadness or regret;bad smell");
+		wordMap.put("poignant", "emotionally touching;sadness or regret;bad smell");
 		wordMap.put("trenchant", "vigorous or incisive in expression or style");
 		wordMap.put("iconoclast", "a person who attacks cherished beliefs");
-		wordMap.put("inveterate", "having a particular habit(long established);unlikely to change");
+		wordMap.put("inveterate", "habitual;having a particular habit(long established);unlikely to change");
 		wordMap.put("meretricious", "apparently attractive but not having any real value");
 		wordMap.put("bicker", "argue about petty & trivial matters#squabble");
 		wordMap.put("equivocate", "to speak in ambiguous way");
@@ -179,7 +179,7 @@ public class Words {
 		wordMap.put("errand", "small chore");
 		wordMap.put("err!", "surprise");
 		wordMap.put("artful", "cunning;wily");
-		wordMap.put("artless", "innocent");
+		wordMap.put("artless", "innocent;guileless");
 		wordMap.put("artifice", "artful");
 		wordMap.put("expurgate", "remove objectionable material(beeps in movies)#censor");
 		wordMap.put("censure", "express strong disapproval of");
@@ -217,7 +217,7 @@ public class Words {
 		wordMap.put("martinet", "requiring complete obediance;a strong disciplinarian");
 		wordMap.put("cantankorous", "angery;bad-tempered");
 		wordMap.put("timorous", "lack of confidence");
-		wordMap.put("precarious", "uncertain;full of dangernot securely held in position");
+		wordMap.put("precarious", "uncertain;full of danger not securely held in position");
 		
 		//8th set
 		wordMap.put("staunch", "very loyal;commited");
@@ -280,7 +280,7 @@ public class Words {
 		//10th set
 		wordMap.put("aesthetic", "related to the appriciation of beauty");
 		wordMap.put("hackneyed", "hack,unoriginal");
-		wordMap.put("trite", "unoriginal;obvious remark");
+		wordMap.put("trite", "repeated too often;unoriginal;obvious remark");
 		wordMap.put("oracular", "hard to interpret#enigmatic");
 		wordMap.put("vernacular", "related to the domestic dialect or language");
 		wordMap.put("secular", "not effect by religious or spiritual matters");
@@ -443,7 +443,7 @@ public class Words {
 		wordMap.put("whimscial", "acting in a capricious manner");
 		wordMap.put("capricious", "given to sudden changes in mood");
 		wordMap.put("quaint", "attractively unusual or old fashioned");
-		wordMap.put("arbitrate", "reach a authoritative judgement or settlement");
+		wordMap.put("arbitrate", "groundless decision;reach a authoritative judgement or settlement");
 		wordMap.put("myriad", "a countless or great number of people or things");
 		wordMap.put("exalt", "think or speak very highly of(someone);raise to a higher rank");
 		
@@ -461,7 +461,7 @@ public class Words {
 		wordMap.put("penned", "write or compose");
 		wordMap.put("congenial", "pleased or liked as having some quality as oneself");
 		wordMap.put("obscure", "known by only a few;make unclear;uncertain");
-		wordMap.put("prolific", "present in a large no. of quantities");
+		wordMap.put("prolific", "intellectually productive");
 		wordMap.put("heretic", "a person believing in or practising religious heresy;unorthodox opinion in every field");
 		wordMap.put("heresy", "unorthodox");
 		wordMap.put("incendiary", "tending to stir up conflict;very exciting");
@@ -478,7 +478,7 @@ public class Words {
 		wordMap.put("consummate", "to make complete;showing great skill & flair");
 		wordMap.put("prosody", "the patterns of stress and intonation in a language");
 		wordMap.put("solitary", "existing alone;single");
-		wordMap.put("repudiation", "rejection of a proposal or idea;denial of truth");
+		wordMap.put("repudiate", "rejection of a proposal or idea;denial of truth");
 		wordMap.put("caricature", "a picture in which certain characteristics are exaggerated");
 		wordMap.put("profligate", "recklessly extravagent or wasteful in the use of resource#prodigal");
 		wordMap.put("comprehensive", "including with all elements or aspects of something");
@@ -493,7 +493,7 @@ public class Words {
 		wordMap.put("exacting", "making great demands on one's skill");
 		wordMap.put("discern", "recognize;find out");
 		wordMap.put("malfeasance", "wrongdoing");
-		wordMap.put("scrupulous", "careful;avoid wrong doing");
+		wordMap.put("scrupulous", "principled;careful;avoid wrong doing");
 		wordMap.put("aboveboard", "legitimate;honest;open");
 		wordMap.put("tarnished", "make or become less valuable or respected");
 		wordMap.put("restorative", "having the ability to restore health");
@@ -501,7 +501,7 @@ public class Words {
 		wordMap.put("detrimental", "tending to cause harm");
 		wordMap.put("genial", "friendly & cheerful");
 		wordMap.put("decrepit", "worn out or ruined because of age or neglect");
-		wordMap.put("contrive", "to pull off a plan or scheme,usually through skill or trickery");*/
+		wordMap.put("contrive", "to pull off a plan or scheme,usually through skill or trickery");
 		
 		//17th set
 		wordMap.put("carouse", "enjoy with others in a noisy way#revelry");
@@ -538,7 +538,7 @@ public class Words {
 		wordMap.put("empirical", "can be tested,measurable");
 		wordMap.put("reticent", "quiet;disciplined to talk;not revealing one's thought");
 		wordMap.put("loquacious", "chatty;talkative");
-		wordMap.put("taciturn", "withdrawn");
+		wordMap.put("taciturn", "uncommunicative;withdrawn");
 		wordMap.put("transient", "lasting a very short time#ephemeral");
 		wordMap.put("salutary", "healthy,promoting a good effect");
 		wordMap.put("shirk", "avoid or neglect");
@@ -548,7 +548,7 @@ public class Words {
 		wordMap.put("delineate", "describe or portray (something) precisely;describe in detail");
 		wordMap.put("sporadic", "occurring at irregular intervals or only in a few places;scattered or isolated;not constant");
 		wordMap.put("inadvertently", "unintentionally");
-		wordMap.put("haphazard", "randomly");
+		wordMap.put("haphazard", "great carelessness;dependant on chance;randomly");
 		wordMap.put("remiss", "negligent;not performing duties");
 		wordMap.put("stringent", "harsh");
 		wordMap.put("doting", "take care of someone in a motherly manner");
@@ -702,28 +702,64 @@ public class Words {
 		wordMap.put("inchoate", "only partly in existence; imperfectly formed");
 		wordMap.put("sartorial", "relating to tailoring, clothes, or style of dress");
 		wordMap.put("salvation", "saving someone or something from harm");
-		wordMap.put("asceticism", "trait of great self-denial");
 		wordMap.put("strictures", "severe criticism");
 		wordMap.put("discount", "bar from attention or consideration");
 		wordMap.put("crestfallen", "brought low in spirit");
 		wordMap.put("tax", "limit;make a charge against or accuse");
-		/*wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");*/
+		wordMap.put("tarnish", "make dirty or spotty");
+		wordMap.put("ominous", "threatening or foreshadowing evil or tragic developments");
+		wordMap.put("robust", "sturdy and strong in form");
+		wordMap.put("pervasive", "spreading or spread throughout");
+		wordMap.put("curative", "tending to cure or restore to health");
+		wordMap.put("refurbished", "make brighter and prettier");
+		wordMap.put("celerity", "a rate that is rapid");
+		wordMap.put("fecklessness", "worthlessness due to being feeble and ineffectual");
+		wordMap.put("semblance", "an outward or token appearance or form that is deliberately misleading");
+		wordMap.put("deliberation", "planning something carefully and intentionally");
+		wordMap.put("uncanny", "operation of supernatural influences");
+		wordMap.put("peripatetic", "a person who walks from place to place");
+		wordMap.put("penurious", "excessively unwilling to spend");
+		wordMap.put("vestige", "a trace of something that no longer exists");
 		
 		//common words 5
+		wordMap.put("arcane", "requiring secret or mysterious knowledge");
+		wordMap.put("percipitous", "done with very great haste");
+		wordMap.put("pedestrian", "lacking imagination");
+		wordMap.put("tractable", "readily reacting to suggestions and influences;easily managed");
+		wordMap.put("brazen", "unrestrained by convention or propriety");
+		wordMap.put("dilettante", "an amateur who engages in an activity without serious intentions and who pretends to have knowledge");
+		wordMap.put("irrevocable", "incapable of being retracted or revoked");
+		wordMap.put("sanction", "legal penalty for a forbidden action");
+		wordMap.put("ravenous", "extremely hungry");
+		wordMap.put("rescind", "cancel officially");
+		wordMap.put("foment", "try to stir up public opinion");
+		wordMap.put("munificent", "very generous");
+		wordMap.put("circumscribe", "restrict or confine");
+		wordMap.put("antithetical", "sharply contrasted in character or purpose");
+		wordMap.put("lionize", "assign great social importance to");
+		wordMap.put("gauche", "lacking social polish");
+		wordMap.put("tempered", "moderated in effect");
+		wordMap.put("prodigious", "so great in size or force or extent as to elicit awe");
+		wordMap.put("awe", "respect mixed with fear or wonder");
+		wordMap.put("winsome", "charming in a childlike or naive way");
+		wordMap.put("inscrutable", "not easily understood;unfathomable");
+		wordMap.put("insolent", "rude and arrogant");
+		wordMap.put("ostracize", "exclude from a community or group");
+		wordMap.put("vacillate", "ambivalent;undecided about something");
+		wordMap.put("constituent", "an abstract part of something");
+		wordMap.put("resurgent", "rising again as to new life and vigor");
+		wordMap.put("propitious", "presenting favorable circumstance;likely to result in success");
+		wordMap.put("intrepid", "fearless");
+		
+		
+		
 		/*wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
