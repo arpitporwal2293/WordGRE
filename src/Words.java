@@ -6,7 +6,7 @@ public class Words {
 	public static Map<String,String> uploadMapData(){
 		Map<String,String> wordMap = new HashMap<>();
 		
-		//1th set
+		/*//1th set
 		wordMap.put("swathe", "a broad strip or area of something");
 		wordMap.put("suburbia", "the suburbs");
 		wordMap.put("domicile", "treat a specified country as a permanent home");
@@ -304,7 +304,7 @@ public class Words {
 		wordMap.put("congruent", "in perfect harmony");
 		wordMap.put("pejorative", "reprimand severly");
 		wordMap.put("daunting", "intimidating");
-		wordMap.put("banal", "boring;repeated too often");
+		wordMap.put("banal", "boring;repeated too often;obvious remark");
 		wordMap.put("cosmetic", "only related to outer beauty");
 		wordMap.put("surreal", "bizzare");
 		wordMap.put("obfuscate", "make obscure;unclear");
@@ -563,7 +563,7 @@ public class Words {
 		wordMap.put("perusal", "work over or read something thoroughly");
 		wordMap.put("ramification", "a complex or unwelcome consequence of an action or event");
 		wordMap.put("despensation", "distribute or supply something;exempt in doing something");
-		wordMap.put("incumbent", "necessary for (someone) as a duty or responsibility");
+		wordMap.put("incumbent", "necessary for (someone) as a duty or responsibility");*/
 		
 		
 		//19th set
@@ -634,7 +634,7 @@ public class Words {
 		wordMap.put("avaricious", "excessively greedy");
 		wordMap.put("frustrate", "hinder or prevent(the effort,plan) of");
 		wordMap.put("refractory", "stubbornly resistant to authority or control");
-		wordMap.put("spurious", "plausible but false");
+		wordMap.put("spurious", "plausible but false#specious");
 		wordMap.put("elucidate", "make clearer and easier to understand");
 		wordMap.put("apathy", "an absence of emotion or enthusiasm");
 		wordMap.put("guileless", "free from deceit");
@@ -718,7 +718,7 @@ public class Words {
 		wordMap.put("deliberation", "planning something carefully and intentionally");
 		wordMap.put("uncanny", "operation of supernatural influences");
 		wordMap.put("peripatetic", "a person who walks from place to place");
-		wordMap.put("penurious", "excessively unwilling to spend");
+		wordMap.put("penurious", "excessively unwilling to spend;miserly;frugal");
 		wordMap.put("vestige", "a trace of something that no longer exists");
 		
 		//common words 5
@@ -752,25 +752,40 @@ public class Words {
 		wordMap.put("intrepid", "fearless");
 		
 		
+		//common words 6
+		wordMap.put("specious", "plausible but false;deceptively pleasing#spurious");
+		wordMap.put("jovial", "showing high-spirited merriment");
+		wordMap.put("imprudent", "not wise");
+		wordMap.put("truncate", "reduce the length of something");
+		wordMap.put("impartial", "unbiased");
+		wordMap.put("economical", "avoiding wasteful,efficient");
+		wordMap.put("esoteric", "understandable by only an enlightened inner circle");
+		wordMap.put("elicit", "call forth(emotions,feelings and responses)");
+		wordMap.put("rebuke", "severely criticize#censure");
+		wordMap.put("nuance", "a subtle difference in meaning or opinion");
+		wordMap.put("posit", "assume as fact");
+		wordMap.put("nonplussed", "unsure how to act or respond");
+		wordMap.put("flux", "a state of uncertainty about what should be done(usually following important event)");
+		wordMap.put("opulence", "wealth as evidenced by sumptuous living");
+		wordMap.put("reproach", "express criticism");
+		wordMap.put("duress", "compulsory force or threat");
+		wordMap.put("mundane", "relating to the ordinary world;repetitive and boring");
+		wordMap.put("dispassionate", "unaffected by strong emotion or prejudice");
+		wordMap.put("askance", "with a look of suspicion or disapproval");
+		wordMap.put("furtive", "marked by quiet and caution and secrecy;taking pains to avoid being observed");
+		wordMap.put("arduous", "demanding considerable mental effort and skill;testing power of endurance");
+		wordMap.put("misconstrue", "interpret in the wrong way");
+		wordMap.put("harried", "troubled persistently especially with petty annoyances");
+		wordMap.put("maladroit", "clumsy");
+		wordMap.put("indecorous", "not keeping with accepted standards of what is right");
+		wordMap.put("dilatory", "wasting time");
+		wordMap.put("sullen", "showing a brooding ill humor");
+		wordMap.put("brooding", "engaged in or showing deep thought about something that makes one sad, angry, or worried");
+		wordMap.put("bolster", "support or strengthen");
+		wordMap.put("craven", "pathetically cowardly");
+		
 		
 		/*wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
