@@ -199,7 +199,7 @@ public class Words {
 		wordMap.put("schadenfreude", "cackling sardonically at the suffering of others");
 		wordMap.put("cackling", "laughing out loud");
 		wordMap.put("sardonically", "grimly mocking#cynically");
-		wordMap.put("amuck", "run about being frenzied");
+		wordMap.put("amok", "run about being frenzied");
 		wordMap.put("frenzy", "widly excited");
 		wordMap.put("ployglot", "know a lot of languages");
 		wordMap.put("cosmoplitan", "familiar with different cultures");
@@ -805,7 +805,7 @@ public class Words {
 		wordMap.put("inflammatory", "extremely controversial#incendiary");
 		wordMap.put("underwrite", "to support financially");
 		wordMap.put("dog", "to pursue relentlessly;to hound");
-		wordMap.put("pinnacle", "highest point#zenith#acme#culminate");
+		wordMap.put("pinnacle", "highest point#zenith#acme#culminate#apex#heyday");
 		wordMap.put("embroiled", "involved in argument#contention");
 		wordMap.put("unnerve", "to make nervous or upset");
 		wordMap.put("spendthrift", "one who spends moeny extravagantly");
@@ -816,7 +816,38 @@ public class Words {
 		wordMap.put("hound", "to pursue relentlessly");
 		wordMap.put("serendipity", "the instance in which an accidental,fortunate discovery is made");
 		
+		//basic words 2
+		wordMap.put("immaterial", "not relevant");
+		wordMap.put("misanthrope", "a hater of mankind");
+		wordMap.put("desecrate", "to willfully violate or destroy a sacred place");
+		wordMap.put("cardinal", "of primary importance;funcdamental");
+		wordMap.put("cadaverous", "emaciated;gaunt");
+		wordMap.put("badger", "to pester");
+		wordMap.put("ferret", "to search for something persistently");
+		wordMap.put("exhort", "to strongly urge on;encourage");
+		wordMap.put("replete", "completely stocked or furnished with something");
+		wordMap.put("vicarious", "felt or undergone as if one were taking part in the experience or feelings of another");
+		wordMap.put("heyday", "pinnacle#acme#culminate#zenith#apex");
+		wordMap.put("hodgepodge", "a confusing mixture or jumble");
+		wordMap.put("chauvinist", "a person who believes in the superiority of their group");
+		wordMap.put("extenuating", "making less guilty or more forgivable");
+		wordMap.put("unconscionable", "unreasonable;unscrupulous;excessive");
+		wordMap.put("stem", "to hold back or limit the flow or growth of something");
+		wordMap.put("sanctimonious", "make a show of being pious");
+		wordMap.put("apex", "pinnacle#acme#culminate#zenith#heyday");
+		wordMap.put("pittance", "a small amount(of money)");
+		wordMap.put("sanguine", "cheerful;optimistic");
+		wordMap.put("catalyst", "something that speeds up an event");
+		wordMap.put("virago", "an ill-tempered or violent woman");
+		wordMap.put("animosity", "intense hostility");
 		
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
+		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
