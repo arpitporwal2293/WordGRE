@@ -177,7 +177,7 @@ public class Words {
 		wordMap.put("errant", "not following a circumscribed path;capable of being wrong");
 		wordMap.put("arrant", "complete and utter(fool)");
 		wordMap.put("errand", "small chore");
-		wordMap.put("err!", "surprise");
+		wordMap.put("err!", "surprise;to make an error");
 		wordMap.put("artful", "cunning;wily");
 		wordMap.put("artless", "innocent;guileless");
 		wordMap.put("artifice", "artful");
@@ -464,7 +464,7 @@ public class Words {
 		wordMap.put("prolific", "intellectually productive");
 		wordMap.put("heretic", "a person believing in or practising religious heresy;unorthodox opinion in every field");
 		wordMap.put("heresy", "unorthodox");
-		wordMap.put("incendiary", "tending to stir up conflict;very exciting");
+		wordMap.put("incendiary", "tending to stir up conflict;very exciting#inflammatory");
 		wordMap.put("smitten", "be strongly attracted to someone");
 		wordMap.put("disenfranchise", "deprive(someone) the right to vote");
 		wordMap.put("tactless", "lack of skill");
@@ -784,19 +784,45 @@ public class Words {
 		wordMap.put("bolster", "support or strengthen");
 		wordMap.put("craven", "pathetically cowardly");
 		
+		//basic words 1
+		wordMap.put("stipend", "a regular allowance(of money)");
+		wordMap.put("zenith", "the highest point#culminate#pinnacle#acme");
+		wordMap.put("macabre", "suggesting the horror of death and decay#gruesome");
+		wordMap.put("affluent", "wealthy");
+		wordMap.put("thrifty", "spending money wisely");
+		wordMap.put("telltale", "revealing");
+		wordMap.put("demean", "to insult;to cause someone to lose dignity or respect");
+		wordMap.put("summit", "a meeting of high-level leaders");
+		wordMap.put("pine", "to yearn for");
+		wordMap.put("mesmerize", "to spellbind");
+		wordMap.put("peruse", "to read very carefully");
+		wordMap.put("diabolical", "to be extremely wicked like the devil");
+		wordMap.put("reprobate", "a person without morals who is disapproved of");
+		wordMap.put("acme", "the highest point of achievement#zenith#pinnacle#culminate");
+		wordMap.put("thoroughgoing", "very thorough;complete");
+		wordMap.put("tirade", "an angry speech");
+		wordMap.put("affable", "likeable;easy to talk to");
+		wordMap.put("inflammatory", "extremely controversial#incendiary");
+		wordMap.put("underwrite", "to support financially");
+		wordMap.put("dog", "to pursue relentlessly;to hound");
+		wordMap.put("pinnacle", "highest point#zenith#acme#culminate");
+		wordMap.put("embroiled", "involved in argument#contention");
+		wordMap.put("unnerve", "to make nervous or upset");
+		wordMap.put("spendthrift", "one who spends moeny extravagantly");
+		wordMap.put("slapdash", "carelessly and hastily put together");
+		wordMap.put("indict", "to formally charge or accuse of wrongdoing");
+		wordMap.put("screed", "an abusive rant(often tedious)");
+		wordMap.put("dupe", "easily tricked or swindled");
+		wordMap.put("hound", "to pursue relentlessly");
+		wordMap.put("serendipity", "the instance in which an accidental,fortunate discovery is made");
 		
-		/*wordMap.put("", "");
+		
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");*/
 		
 		return wordMap;
 	}
