@@ -845,7 +845,7 @@ public class Words {
 		wordMap.put("archaic", "so old as to appear to belong to a different period");
 		wordMap.put("jocular", "characterized by jokes and good humor");
 		wordMap.put("flounder", "behave awkwardly;have difficulties");
-		wordMap.put("thwart", "hinder or prevent(the efforts,plans)");
+		wordMap.put("thwart", "hinder or prevent(the efforts,plans)#impede");
 		wordMap.put("entice", "get someone to do something through(often false) promises");
 		wordMap.put("elusive", "difficult to capture or remember");
 		wordMap.put("plodding", "slow and laborious");
@@ -876,8 +876,8 @@ public class Words {
 		wordMap.put("apprehension", "fearful expectation");
 		wordMap.put("raffish", "marked by a carefree or disreputableness");
 		wordMap.put("degrade", "reduce in worth or character,usually verbally");
-		wordMap.put("quandary", "state of uncertainty or perplexity especially as requiring a choice between equally unfavourable options");
-		wordMap.put("impede", "be a hindrance or obstacle to");
+		wordMap.put("quandary", "state of perplexity especially as requiring a choice between equally unfavourable options");
+		wordMap.put("impede", "be a hindrance or obstacle to#thwart");
 		wordMap.put("respite", "a pause from doing something(as work)");
 		wordMap.put("resolve", "reach a conclusion after a discussion");
 		wordMap.put("malady", "a disease or sickness");
