@@ -147,7 +147,7 @@ public class Words {
 		wordMap.put("grabbled", "make false by mutation of a story#embellish");
 		wordMap.put("tempest", "full of emotion");
 		wordMap.put("ignominy", "publically disgrace");
-		wordMap.put("pithy", "terse & vigoursly expressive");
+		wordMap.put("pithy", "full of meaning;terse & vigoursly expressive");
 		wordMap.put("aphorism", "a pithy observation that contains the general truth");
 		wordMap.put("terse", "abrupt");
 		wordMap.put("shun", "to avoid;ignore");
@@ -804,16 +804,16 @@ public class Words {
 		wordMap.put("affable", "likeable;easy to talk to");
 		wordMap.put("inflammatory", "extremely controversial#incendiary");
 		wordMap.put("underwrite", "to support financially");
-		wordMap.put("dog", "to pursue relentlessly;to hound");
+		wordMap.put("dog", "to pursue relentlessly#hound");
 		wordMap.put("pinnacle", "highest point#zenith#acme#culminate#apex#heyday");
 		wordMap.put("embroiled", "involved in argument#contention");
 		wordMap.put("unnerve", "to make nervous or upset");
-		wordMap.put("spendthrift", "one who spends moeny extravagantly");
+		wordMap.put("spendthrift", "one who spends money extravagantly");
 		wordMap.put("slapdash", "carelessly and hastily put together");
 		wordMap.put("indict", "to formally charge or accuse of wrongdoing");
 		wordMap.put("screed", "an abusive rant(often tedious)");
 		wordMap.put("dupe", "easily tricked or swindled");
-		wordMap.put("hound", "to pursue relentlessly");
+		wordMap.put("hound", "to pursue relentlessly#dog");
 		wordMap.put("serendipity", "the instance in which an accidental,fortunate discovery is made");
 		
 		//basic words 2
@@ -841,19 +841,56 @@ public class Words {
 		wordMap.put("virago", "an ill-tempered or violent woman");
 		wordMap.put("animosity", "intense hostility");
 		
+		//basic words 3
+		wordMap.put("archaic", "so old as to appear to belong to a different period");
+		wordMap.put("jocular", "characterized by jokes and good humor");
+		wordMap.put("flounder", "behave awkwardly;have difficulties");
+		wordMap.put("thwart", "hinder or prevent(the efforts,plans)#impede");
+		wordMap.put("entice", "get someone to do something through(often false) promises");
+		wordMap.put("elusive", "difficult to capture or remember");
+		wordMap.put("plodding", "slow and laborious");
+		wordMap.put("obdurate", "unable to be persuaded or moved emotionally;stubborn;unyielding");
+		wordMap.put("incessant", "uninterrupted in time and indefinitely long");
+		wordMap.put("fete", "to celebrate a person");
+		wordMap.put("patronize", "treat condescendingly");
+		wordMap.put("ascendancy", "the state that exists when one person or group has power over another");
+		wordMap.put("appreciable", "large enough to be noticed");
+		wordMap.put("moot", "open to argument or debate;undecidable");
+		wordMap.put("impermeable", "does not allow fluids to pass through");
+		wordMap.put("inclement", "showing no mercy;unpleasant,stormy");
+		wordMap.put("advocate", "pleed for a cause#proponant");
+		wordMap.put("avid", "marked by active interest and enthusiasm");
+		wordMap.put("discriminate", "recognize or perceive the difference");
+		wordMap.put("disheartened", "made less hopeful or enthusiastic");
+		wordMap.put("boon", "very close and convivial;a desirable state");
+		wordMap.put("deter", "try to prevent,show opposition to;turn away from by persuasion");
+		wordMap.put("malleable", "easily influenced");
+		wordMap.put("ornate", "marked by elaborate rhetoric and elaborated with decorative details");
+		wordMap.put("transitory", "lasting a very short time");
+		wordMap.put("snide", "expressive of contempt;deragotory or mocking in an indirect way");
+		wordMap.put("endemic", "native;originating where it is found");
+		wordMap.put("autonomously", "acting independently;self-governing");
+		wordMap.put("guffaw", "laugh boisterously");
+		wordMap.put("morose", "ill-tempered and not inclined to talk;gloomy");
+		wordMap.put("muted", "softenend;subdued");
+		wordMap.put("apprehension", "fearful expectation");
+		wordMap.put("raffish", "marked by a carefree or disreputableness");
+		wordMap.put("degrade", "reduce in worth or character,usually verbally");
+		wordMap.put("quandary", "state of perplexity especially as requiring a choice between equally unfavourable options");
+		wordMap.put("impede", "be a hindrance or obstacle to#thwart");
+		wordMap.put("respite", "a pause from doing something(as work)");
+		wordMap.put("resolve", "reach a conclusion after a discussion");
+		wordMap.put("malady", "a disease or sickness");
+		wordMap.put("stolid", "having or revealing little emotion or sensibility;not easily aroused or excited");
+		
+		
+/*		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
 		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
+		wordMap.put("", "");*/
 		
 		return wordMap;
 	}
