@@ -368,7 +368,7 @@ public class Words {
 		wordMap.put("apotheosize", "idolize");
 		wordMap.put("sycophant", "obsequiously#subservient");
 		wordMap.put("pedant", "a person who is excessively concerned with minor details & rules;show academic learning");
-		wordMap.put("eccentric", "slightly strange;not placed centrally");
+		wordMap.put("eccentric", "unusual;slightly strange;not placed centrally");
 		
 		//13st set
 		wordMap.put("opprobrium", "harsh criticism or censure; publicly disgrace");
@@ -553,7 +553,7 @@ public class Words {
 		wordMap.put("stringent", "harsh");
 		wordMap.put("doting", "take care of someone in a motherly manner");
 		wordMap.put("imminent", "about to happen");
-		wordMap.put("begrudge", "hold them back");
+		wordMap.put("begrudge", "to give reluctantly;to envy someone for possessing or enjoying something;hold them back");
 		wordMap.put("jarring", "clashing;shocking");
 		wordMap.put("jubilant", "happy cause of success");
 		wordMap.put("tenacious", "not giving up easily");
@@ -739,7 +739,7 @@ public class Words {
 		wordMap.put("lionize", "assign great social importance to");
 		wordMap.put("gauche", "lacking social polish");
 		wordMap.put("tempered", "moderated in effect");
-		wordMap.put("prodigious", "so great in size or force or extent as to elicit awe");
+		wordMap.put("prodigious", "so great in size or force or extent as to elicit awe#colossal");
 		wordMap.put("awe", "respect mixed with fear or wonder");
 		wordMap.put("winsome", "charming in a childlike or naive way");
 		wordMap.put("inscrutable", "not easily understood;unfathomable");
@@ -849,7 +849,7 @@ public class Words {
 		wordMap.put("entice", "get someone to do something through(often false) promises");
 		wordMap.put("elusive", "difficult to capture or remember");
 		wordMap.put("plodding", "slow and laborious");
-		wordMap.put("obdurate", "unable to be persuaded or moved emotionally;stubborn;unyielding");
+		wordMap.put("obdurate", "unable to be persuaded or moved emotionally;stubborn;unyielding#obstinate");
 		wordMap.put("incessant", "uninterrupted in time and indefinitely long");
 		wordMap.put("fete", "to celebrate a person");
 		wordMap.put("patronize", "treat condescendingly");
@@ -928,7 +928,7 @@ public class Words {
 		wordMap.put("collusion", "agreement on a secret plot");
 		wordMap.put("quip", "to make a witty remark, to say in jest");
 		wordMap.put("placid", "not easily irritated");
-		wordMap.put("obstinate", "resistant to guidance or discipline; stubbornly persistent");
+		wordMap.put("obstinate", "resistant to guidance or discipline; stubbornly persistent#obdurate");
 		wordMap.put("impregnable", "immune to attack;incapable of being tampered with");
 		wordMap.put("ploy", "a clever plan to turn a situation to one's advantage");
 		wordMap.put("unprecedented", "having never been done or known before;novel");
@@ -964,14 +964,99 @@ public class Words {
 		wordMap.put("malevolent", "wishing or appearing to wish evil to others;arising from intense ill will or hatred");
 		wordMap.put("eke", "to live off meager resources,to scrape by");
 		
+		//basic words 6
+		/*wordMap.put("glean", "collect information bit by bit");
+		wordMap.put("buttress", "make stronger or defensible");
+		wordMap.put("presumptuous", "excessively forward");
+		wordMap.put("lethargic", "lacking energy");
+		wordMap.put("behoove", "to be one's duty or obligation");
+		wordMap.put("cavalier", "given to haughty disregard of others#disdain");
+		wordMap.put("rile", "cause annoyance in,disturb,expecially by minor irritations");
+		wordMap.put("humdrum", "dull and lacking excitement");
+		wordMap.put("belittle", "lessen the importance,dignity,reputation");
+		wordMap.put("industrious", "characterized by hard work and perseverance");
+		wordMap.put("avert", "ward off or prevent;turn away");
+		wordMap.put("preempt", "take the place of or have precedence over");
+		wordMap.put("clemency", "leniency and compassion shown towards offenders");
+		wordMap.put("cerebral", "involving intelligence rather than emotions or instinct");
+		wordMap.put("foolhardy", "marked by defiant disregard for danger or consequences");
+		wordMap.put("redress", "an act of making something right");
+		wordMap.put("wanton", "without check or limitation;showing no moral restraints to one's anger,desire");
+		wordMap.put("finagle", "achieve something by means of trickery or devious methods");
+		wordMap.put("insipid", "dull or uninteresting");
+		wordMap.put("irascible", "quickly aroused to anger");
+		wordMap.put("evenhanded", "without partiality");
+		wordMap.put("cohesive", "well integrated,forming a united whole");
+		wordMap.put("forthright", "characterized by directness in manner or speech;without subtlety or evasion");
+		wordMap.put("implicate", "to indicate in wrongdoing,usually a crime;convey a meaning;imply");
+		wordMap.put("melancholy", "a deep;long lasting sadness");
+		wordMap.put("delegate", "give an assignment to");
+		wordMap.put("ascribe", "attribute or credit to");
+		wordMap.put("besmirch", "damage the good name and reputation of someone");
+		wordMap.put("docile", "easily handled or managed;willing to be taught or led or supervised or directed");
+		wordMap.put("rakish", "marked by a carefree unconventionality or disreputableness");
+		wordMap.put("incense", "make furious");
+		wordMap.put("coalesce", "fuse or cause to grow together");
+		wordMap.put("piquant", "having an agreeably pungent taste");
+		wordMap.put("conundrum", "a difficult problem");
+		wordMap.put("veneer", "covering consisting of a thin superficial layer that hides the underlying substance");
+		wordMap.put("prevail", "prove superior;to be widespread in a particular area at a particular time");
+		wordMap.put("analogous", "similar in some respects but otherwise different");
+		wordMap.put("tribulation", "something,especially an event, that causes difficulty and suffering");
+		wordMap.put("intermittent", "stopping and starting at irregular intervals");
+		wordMap.put("antedate", "precede in time");
+		wordMap.put("fawn", "try to gain favor by extreme flattery");
+		wordMap.put("consecrate", "to make holy or set apart for a high purpose");
 		
-		/*wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");
-		wordMap.put("", "");*/
+		//basic words 7
+		wordMap.put("decimation", "destroying or killing a large part of the population");
+		wordMap.put("malodorous", "having an unpleasant smell");
+		wordMap.put("dispatch", "dispose of rapidly and without delay and efficiently;the property of being prompt and efficient");
+		wordMap.put("provisional", "under terms not final or fully worked out or agreed upon");
+		wordMap.put("balk", "refuse to comply");
+		wordMap.put("evasive", "deliberately vague or ambiguous;escaping from difficulty or danger");
+		wordMap.put("sordid", "involving dishonourable actions and motives;contempt;repulsive");
+		wordMap.put("hamper", "prevent the progress or free movement of");
+		wordMap.put("dilapidated", "in terrible condition");
+		wordMap.put("qualm", "uneasiness about the fitness of an action");
+		wordMap.put("complementary", "enhancing each other's qualities(for two things or more)");
+		wordMap.put("perquisite", "a right reserved exclusively by a particular person or group(hereditary or official right)");
+		wordMap.put("obliging", "showing a cheerful willingness to do favors for others");
+		wordMap.put("discreet", "careful to protect one's speech or actions in order to avoid offense or draw attention");
+		wordMap.put("misogynist", "a person who dislikes women in particular");
+		wordMap.put("vanquish", "come out better in a competition,race,conflict");
+		wordMap.put("boorish", "ill-mannered and coarse or contemptible in behaviour or appearance");
+		wordMap.put("carping", "persistently petty and unjustified criticism");
+		wordMap.put("resignation", "the acceptance of something unpleasant that can't be avoided");
+		wordMap.put("inkling", "a slight suggestion or vague understanding");
+		wordMap.put("stymie", "hinder or prevent the progress or accomplishment of");
+		wordMap.put("staid", "characterized by dignity and propriety");
+		wordMap.put("deliberate", "think about carefully;weigh the pros and cons of an issue");
+		wordMap.put("compound", "make more intense,stronger,or more marked");
+		wordMap.put("colossal", "so great in size or force or extent as to elicit awe#prodigious");
+		wordMap.put("cumbersome", "difficult to handle or use especially because of size or weight");
+		wordMap.put("antiquated", "old-fashioned;belonging to an old period in time");
+		wordMap.put("abysmal", "extremely bad");
+		wordMap.put("morph", "to undergo dramatic change in a seamless and barely noticeable fashion");
+		wordMap.put("inarticulate", "without or deprived of the use of speech or words");
+		wordMap.put("creditable", "deserving of praise but not that amazing");
+		wordMap.put("amply", "more than is adequate");
+		wordMap.put("vie", "compete for something");
+		wordMap.put("champion", "to fight for a cause");
+		wordMap.put("differentiate", "evolve so as to lead to a new species or develop in a way most suited to the environment;distinctive feature");
+		wordMap.put("miscreant", "a person who breaks the law");
+		wordMap.put("convivial", "describing a lively atmosphere");
+		wordMap.put("debunk", "expose as false ideas and claims,especially while ridiculing");
+		wordMap.put("excruciating", "extremely painful");
+		wordMap.put("constraint", "something that limits or restricts");
+		wordMap.put("besiege", "harass,as with questions or requests, cause to feel distressed or worried");
+		wordMap.put("snub", "refuse to acknowledge;reject outright and bluntly");
+		wordMap.put("laborious", "characterized by effort to the point of exhaustion;especially physical effort");
+		wordMap.put("paradoxical", "seemingly contradictory but nonetheless possibly true");
+		wordMap.put("chivalrous", "being attentive to women like an ideal knight");*/
+		
+		
+		/*wordMap.put("", "");*/
 		
 		return wordMap;
 	}
